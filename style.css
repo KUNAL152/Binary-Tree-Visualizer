@@ -1,0 +1,86 @@
+body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    padding: 15px;
+  }
+  
+  input {
+    font-size: 2em;
+  }
+  
+  label  {
+    font-size: 2em;
+    font-weight: bold;
+  }
+  
+  #title {
+    color:rgb(8, 74, 3) ;
+    font-weight: bold;
+    font-size: 2.5em;
+  }
+  
+  #blurb {
+    background-color: rgba(255, 255, 255, 0.386);
+    text-align: center;
+    margin: auto;
+    width: 500px;
+    padding: 1em;
+    border-radius: 5px;
+  }
+  
+  #visual-title {
+    font-weight: bold;
+    font-size: 2em;
+    padding-bottom: 1em;
+  }
+  
+  #array-visual {
+    margin: 1em;
+  }
+  
+  header {
+    background-color: rgb(255, 255, 255);
+    background-size: cover;
+    width: 100%;
+    padding: 1em;
+    color:black;
+  }
+  
+  button {
+    margin: 1.5em 0.25em;
+    background-color:rgb(8, 74, 3);
+    font-size: 1.5em;
+    font-weight: bold;
+    color: white;
+    padding: .75em 1em;
+    border: none;
+    border-radius: 5px;
+    font-weight: normal;
+  }
+  
+  rect:hover, circle:hover, text.circle:hover, text.rect:hover {
+    cursor: pointer;
+  }
+  
+  .subtext {
+    font-size: 1.5em;
+    font-weight: 600;
+  }
+  
+  .svg-container {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    padding-bottom: 100%;
+    vertical-align: top;
+    overflow: hidden;
+  }
+  
+  .svg-content-responsive {
+    display: inline-block;
+    position: absolute;
+    top: 10px;
+    left: 0;
+  }
+  
