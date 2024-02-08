@@ -19,10 +19,10 @@ To run this website locally, follow these steps:
 3. Enter an array of values into the input field and explore the visualizations!
 
 # Technologies Used
--> HTML
--> CSS
--> JavaScript
-> D3.js (Data-Driven Documents)
+1. HTML
+2. CSS
+3. JavaScript
+4. D3.js (Data-Driven Documents)
 
 # Author
 Kunal Dubey
